@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://auliamarda.io)
 <h1 align="center">Hi 👋, I'm Aulia Mardhatillah</h1>
-<h3 align="center">I want to be a mobile(android) and web developer</h3>
+<h3 align="center">Computer Science / Informatics Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/02/25/a3/0225a3037cd146abe120a9693c16bdba.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auliamarda&label=Profile%20views&color=0e75b6&style=flat" alt="auliamarda" /> </p>
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mardhatillahaulia@gmail.com**
 
-- ⚡ Fun fact **I think i am funny girl and like to draw**
+- ⚡ Fun fact **I love doing art**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
